@@ -7,12 +7,18 @@ Este directorio almacena la producción experimental y analítica correspondient
 
 ## 🗺️ 1. Estructura de Actividades Prácticas Experimentales (Laboratorios)
 
-* [📄 Laboratorio APE00: Fundamentos de Probabilidad y Espacios Muestrales](./APEs/APE00.ipynb)
-* [📄 Laboratorio APE01: Variables Aleatorias y Distribuciones de Probabilidad](./APEs/APE01.ipynb)
-* [📄 Laboratorio APE02: Distribuciones Muestrales y Teorema del Límite Central](./APEs/APE02.ipynb)
-* [📄 Laboratorio APE03: Variables Aleatorias Discretas y Continuas](./APEs/APE03.ipynb)
-* [📄 Laboratorio APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](./APEs/APE04.ipynb)
-* [📄 Laboratorio APE05: Distribuciones Discretas Notables](./APEs/APE05.ipynb)
+* [📄 Laboratorio APE00: Fundamentos de Probabilidad y Espacios Muestrales](./APEs/APE00.ipynb)  
+  *Establecimiento y simulación algorítmica de experimentos aleatorios, álgebra de eventos y cálculo de probabilidades clásicas y empíricas en Python.*
+* [📄 Laboratorio APE01: Variables Aleatorias y Distribuciones de Probabilidad](./APEs/APE01.ipynb)  
+  *Modelamiento computacional de variables aleatorias y evaluación de sus propiedades mediante funciones de masa y densidad de probabilidad.*
+* [📄 Laboratorio APE02: Distribuciones Muestrales y Teorema del Límite Central](./APEs/APE02.ipynb)  
+  *Demostración empírica del comportamiento de las medias muestrales y su convergencia asintótica hacia la normalidad estadística.*
+* [📄 Laboratorio APE03: Variables Aleatorias Discretas y Continuas](./APEs/APE03.ipynb)  
+  *Implementación de cálculo integral y numérico aplicado a densidades continuas frente a la acumulación discreta de datos.*
+* [📄 Laboratorio APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](./APEs/APE04.ipynb)  
+  *Cálculo automatizado de la Esperanza Matemática $E[X]$, Varianza Teórica $V[X]$ y momentos de orden superior para describir la forma de los datos.*
+* [📄 Laboratorio APE05: Distribuciones Discretas Notables](./APEs/APE05.ipynb)  
+  *Simulación y análisis de escenarios prácticos utilizando los modelos probabilísticos Binomial y de Poisson mediante `scipy.stats`.*
 
 ---
 
