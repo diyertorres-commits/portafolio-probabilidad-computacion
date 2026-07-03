@@ -10,11 +10,16 @@ Este directorio almacena de forma limpia y sistematizada la producción científ
 ## 🗺️ 1. Estructura de Actividades Prácticas Experimentales (Laboratorios)
 Haga clic en cualquiera de los enlaces para revisar la documentación, el código y la resolución técnica interactiva:
 
-* [📄 Laboratorio APE06: Distribuciones Continuas Notables](./APEs/APE06.ipynb)
-* [📄 Laboratorio APE07: Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica](./APEs/APE07.ipynb)
-* [📄 Laboratorio APE08: Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)](./APEs/APE08.ipynb)
-* [📄 Laboratorio APE09: Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p](./APEs/APE09.ipynb)
-* [📄 Laboratorio APE10: Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)](./APEs/APE10.ipynb)
+* [📄 Laboratorio APE06: Distribuciones Continuas Notables](./APEs/APE06.ipynb)  
+  *Estudio profundo de la Distribución Normal (Campana de Gauss), procesos de estandarización matemática y uso computacional del estadístico Z.*
+* [📄 Laboratorio APE07: Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica](./APEs/APE07.ipynb)  
+  *Generación de múltiples muestras aleatorias por computadora para validar el comportamiento exponencial del TLC en la estimación de parámetros.*
+* [📄 Laboratorio APE08: Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)](./APEs/APE08.ipynb)  
+  *Construcción de márgenes de error e intervalos de confianza paramétricos para estimar medias poblacionales bajo escenarios de varianza conocida y desconocida.*
+* [📄 Laboratorio APE09: Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p](./APEs/APE09.ipynb)  
+  *Diseño y ejecución de contrastes de hipótesis de una y dos muestras, analizando el valor-$p$ como métrica crítica para el rechazo de la hipótesis nula.*
+* [📄 Laboratorio APE10: Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)](./APEs/APE10.ipynb)  
+  *Modelamiento lineal y comparación múltiple simultánea para identificar diferencias salariales significativas entre más de dos regímenes laborales institucionales.*
 
 ---
 
