@@ -6,7 +6,6 @@ Este directorio almacena la producción experimental y analítica correspondient
 ---
 
 ## 🗺️ 1. Estructura de Actividades Prácticas Experimentales (Laboratorios)
-Haga clic en cualquiera de las guías para revisar la documentación y resolución técnica original de la Unidad 1:
 
 * [📄 Laboratorio APE00: Fundamentos de Probabilidad y Espacios Muestrales](./APE00.pdf)
 * [📄 Laboratorio APE01: Variables Aleatorias y Distribuciones de Probabilidad](./APE01.pdf)
@@ -14,8 +13,6 @@ Haga clic en cualquiera de las guías para revisar la documentación y resoluci�
 * [📄 Laboratorio APE03: Variables Aleatorias Discretas y Continuas](./APE03.pdf)
 * [📄 Laboratorio APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](./APE004.pdf)
 * [📄 Laboratorio APE05: Distribuciones Discretas Notables](./APE05.pdf)
-
-*(Nota: Si sus archivos reales dentro de la carpeta son cuadernos de Jupyter en lugar de PDFs, recuerde cambiar la extensión '.pdf' por '.ipynb' al final de cada enlace, por ejemplo: `./APE00.ipynb`, para que GitHub los abra correctamente).*
 
 ---
 
