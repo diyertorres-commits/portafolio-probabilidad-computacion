@@ -19,7 +19,7 @@ Este portafolio digital ha sido diseñado como un espacio institucional para la 
 Seleccione una unidad para acceder a sus guías de laboratorio, fuentes de datos y bitácoras de autoevaluación:
 
 * [📁 Unidad 1: Introducción A La Probabilidad. Modelos Probabilísticos](./unidad_1/unidad1.md)
-* [📁 Unidad 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria](./unidad_2/Unidad_2/)
+* [📁 Unidad 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria](./unidad_2/unidad2.md/)
 
 ---
 
