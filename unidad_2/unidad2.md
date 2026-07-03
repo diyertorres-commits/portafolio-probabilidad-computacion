@@ -24,7 +24,7 @@ Haga clic en cualquiera de los enlaces para revisar la documentación, el códig
 ---
 
   ## 📝 2. Evaluaciones Sumativas (Exámenes)
-* [💻 Examen Práctico Unidad 2(./Proyecto_Inferencia_Estadistica_Diyer.ipynb)  
+* [💻 Examen Práctico Unidad 2](./Proyecto_Inferencia_Estadistica_Diyer.ipynb)  
   *Desarrollo e implementación del examen práctico de la asignatura, ejecutando el pipeline completo de análisis paramétrico, pruebas multigrupo y validación estadística.*
 
 ---
