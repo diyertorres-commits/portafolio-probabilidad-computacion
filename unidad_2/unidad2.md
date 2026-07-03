@@ -23,7 +23,13 @@ Haga clic en cualquiera de los enlaces para revisar la documentación, el códig
 
 ---
 
-## 📓 2. Bitácora de Autoevaluación y Reflexión Crítica
+  ## 📝 2. Evaluaciones Sumativas (Exámenes)
+* [💻 Examen Práctico Unidad 2(./Proyecto_Inferencia_Estadistica_Diyer.ipynb)  
+  *Desarrollo e implementación del examen práctico de la asignatura, ejecutando el pipeline completo de análisis paramétrico, pruebas multigrupo y validación estadística.*
+
+---
+
+## 📓 3. Bitácora de Autoevaluación y Reflexión Crítica
 
 ### A. Aprendizajes Significativos Adquiridos
 Durante esta unidad de inferencia estadística, el aprendizaje trascendió la teoría matemática tradicional hacia la automatización, simulación y modelamiento computacional avanzado:
