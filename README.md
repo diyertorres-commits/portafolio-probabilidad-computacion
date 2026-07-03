@@ -18,7 +18,7 @@ Este portafolio digital ha sido diseñado como un espacio institucional para la 
 ## 🗂️ 2. Estructura General del Repositorio
 Seleccione una unidad para acceder a sus guías de laboratorio, fuentes de datos y bitácoras de autoevaluación:
 
-* [📁 Unidad 1: Fundamentos de Probabilidad y Distribuciones](./Unidad_1/unidad1.md)
+* [📁 Unidad 1: Fundamentos de Probabilidad y Distribuciones](./unidad_1/unidad1.md)
 * [📁 Unidad 2: Inferencia Estadística y Pruebas de Hipótesis](./Unidad_2/)
 
 ---
