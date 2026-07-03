@@ -17,7 +17,7 @@ Este portafolio digital ha sido diseñado como un espacio institucional para la 
 
 ## 💾 2. Repositorio de Datos Centralizado (`data_source/`)
 Para optimizar el almacenamiento del proyecto y evitar redundancia de información, se ha dispuesto una carpeta global en la raíz que aloja la base de datos real utilizada en el transcurso de ambos bloques académicos:
-* [📊 Dataset Oficial: Remuneraciones GAD Municipal de Loja](./data_source/3._remuneraciones_ingresos_adicionales.xlsx)  
+* [📊 Dataset Oficial: Remuneraciones GAD Municipal de Loja](./data_source/3._remuneraciones_ingresos_adicionales.csv)  
   *Matriz gubernamental auditada con N=2883 registros que detalla ingresos unificados, regímenes laborales y componentes salariales complementarios.*
 
 ---
