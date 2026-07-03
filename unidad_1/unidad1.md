@@ -7,12 +7,12 @@ Este directorio almacena la producción experimental y analítica correspondient
 
 ## 🗺️ 1. Estructura de Actividades Prácticas Experimentales (Laboratorios)
 
-* [📄 Laboratorio APE00: Fundamentos de Probabilidad y Espacios Muestrales](./APE00.pdf)
-* [📄 Laboratorio APE01: Variables Aleatorias y Distribuciones de Probabilidad](./APE01.pdf)
-* [📄 Laboratorio APE02: Distribuciones Muestrales y Teorema del Límite Central](./APE02.pdf)
-* [📄 Laboratorio APE03: Variables Aleatorias Discretas y Continuas](./APE03.pdf)
-* [📄 Laboratorio APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](./APE004.pdf)
-* [📄 Laboratorio APE05: Distribuciones Discretas Notables](./APE05.pdf)
+* [📄 Laboratorio APE00: Fundamentos de Probabilidad y Espacios Muestrales](./APEs/APE00.ipynb)
+* [📄 Laboratorio APE01: Variables Aleatorias y Distribuciones de Probabilidad](./APEs/APE01.ipynb)
+* [📄 Laboratorio APE02: Distribuciones Muestrales y Teorema del Límite Central](./APEs/APE02.ipynb)
+* [📄 Laboratorio APE03: Variables Aleatorias Discretas y Continuas](./APEs/APE03.ipynb)
+* [📄 Laboratorio APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](./APEs/APE04.ipynb)
+* [📄 Laboratorio APE05: Distribuciones Discretas Notables](./APEs/APE05.ipynb)
 
 ---
 
