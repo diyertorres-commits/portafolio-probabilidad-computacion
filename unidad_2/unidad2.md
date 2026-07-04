@@ -29,7 +29,13 @@ Haga clic en cualquiera de los enlaces para revisar la documentación, el códig
 
 ---
 
-## 📓 3. Bitácora de Autoevaluación y Reflexión Crítica
+  ## 🎥 3. Defensa Audiovisual y Sustentación Técnica
+* [▶️ Video de la Defensa](https://drive.google.com/file/d/1bvQgsiUKIJ2Pve4-Gmm1vgcHzdcoHBJ9/view?usp=sharing)  
+  *Exposición técnica y demostración en vivo donde se sustenta el criterio metodológico de las pruebas paramétricas, los grados de libertad y la interpretación rigurosa del valor-p.*
+
+---
+
+## 📓 4. Bitácora de Autoevaluación y Reflexión Crítica
 
 ### A. Aprendizajes Significativos Adquiridos
 Durante esta unidad de inferencia estadística, el aprendizaje trascendió la teoría matemática tradicional hacia la automatización, simulación y modelamiento computacional avanzado:
