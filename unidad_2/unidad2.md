@@ -23,19 +23,26 @@ Haga clic en cualquiera de los enlaces para revisar la documentación, el códig
 
 ---
 
-  ## 📝 2. Evaluaciones Sumativas (Exámenes)
+## 💾 2. Repositorio de Datos Centralizado
+Para optimizar el almacenamiento del proyecto y evitar redundancia de información, se ha dispuesto una carpeta global en la raíz que aloja la base de datos real utilizada en el transcurso de ambos bloques académicos:
+* [📊 Dataset Oficial: Remuneraciones GAD Municipal de Loja](./3._remuneraciones_ingresos_adicionales.csv)  
+  *Matriz gubernamental auditada con N=2883 registros que detalla ingresos unificados, regímenes laborales y componentes salariales complementarios.*
+
+---
+
+  ## 📝 3. Evaluacione Sumativa (Exámene)
 * [💻 Examen Práctico Unidad 2](./Proyecto_Inferencia_Estadistica_Diyer.ipynb)  
   *Desarrollo e implementación del examen práctico de la asignatura, ejecutando el pipeline completo de análisis paramétrico, pruebas multigrupo y validación estadística.*
 
 ---
 
-  ## 🎥 3. Defensa Audiovisual y Sustentación Técnica
+  ## 🎥 4. Defensa Audiovisual y Sustentación Técnica
 * [▶️ Video de la Defensa](https://drive.google.com/file/d/1bvQgsiUKIJ2Pve4-Gmm1vgcHzdcoHBJ9/view?usp=sharing)  
   *Exposición técnica y demostración en vivo donde se sustenta el criterio metodológico de las pruebas paramétricas, los grados de libertad y la interpretación rigurosa del valor-p.*
 
 ---
 
-## 📓 4. Bitácora de Autoevaluación y Reflexión Crítica
+## 📓 5. Bitácora de Autoevaluación y Reflexión Crítica
 
 ### A. Aprendizajes Significativos Adquiridos
 Durante esta unidad de inferencia estadística, el aprendizaje trascendió la teoría matemática tradicional hacia la automatización, simulación y modelamiento computacional avanzado:
