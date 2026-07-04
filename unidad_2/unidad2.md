@@ -2,7 +2,7 @@
 ## 📁 Contenido Interno de la Unidad
 Este directorio almacena de forma limpia y sistematizada la producción científica y algorítmica desarrollada en el bloque de cierre de la asignatura:
 1. **Guías de Laboratorio (APE06 a APE10):** Resoluciones experimentales de distribuciones avanzadas, simulaciones estocásticas y contrastes de hipótesis.
-2. **Evaluación Sumativa Final:** Cuaderno técnico (`Diyer_Torres_Examen_U2.ipynb`) con el desarrollo del Live Coding analítico de pruebas paramétricas.
+2. **Evaluación Sumativa Final:** Cuaderno técnico (`Proyecto_Inferencia_Estadistica_Diyer.ipynb`) con el desarrollo del Live Coding analítico de pruebas paramétricas.
 3. **Origen de Datos (`data_source/`):** Base de datos gubernamental real sobre las remuneraciones del GAD Municipal de Loja.
 
 ---
